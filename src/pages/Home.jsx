@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { api } from '../http/axios-instance';
 import { Smartphone, Users, Heart } from "lucide-react";
 
 export default function MemorialPage() {
